@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyankawakalkar" alt="priyankawakalkar" /></a> </p>
 
-- 🌱 I’m currently learning **cloud computing**
+- 🌱 I’m currently completed **Engineering**
 
-- 💬 Ask me about **full-stack-development**
+- 💬 Ask me about **front-end-development**
 
 - 📫 How to reach me **priyankawakalkar07@gmail.com**
 
